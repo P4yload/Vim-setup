@@ -1,6 +1,15 @@
-============================================================
-My vim setup
-============================================================
+
+
+
+vim tips
+============
+
+* tips on navigating/moving hotkey video (ideavim python plugin for vim)
+
+https://www.youtube.com/watch?v=UlREhZ-orlk
+
+vim setup 
+============
 
 My vim IDE setup for Python, Go, Rust, html, css, javascript, typescript,
 gettext and more.
