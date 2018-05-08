@@ -1,5 +1,6 @@
 
-
+maybe do this vim ultimate snippets.:
+* https://github.com/SirVer/ultisnips
 
 vim tips
 ============
